@@ -1,1 +1,148 @@
-ewogICJjb3JwIjogewogICAgIm5hbWUiOiAi67KV7J247IS467KVIiwKICAgICJjaHVua3MiOiBbCiAgICAgICJjb3JwLTAxLmpzb24iLAogICAgICAiY29ycC0wMi5qc29uIiwKICAgICAgImNvcnAtMDMuanNvbiIsCiAgICAgICJjb3JwLTA0Lmpzb24iLAogICAgICAiY29ycC0wNS5qc29uIiwKICAgICAgImNvcnAtMDYuanNvbiIsCiAgICAgICJjb3JwLTA3Lmpzb24iLAogICAgICAiY29ycC0wOC5qc29uIiwKICAgICAgImNvcnAtMDkuanNvbiIsCiAgICAgICJjb3JwLTEwLmpzb24iCiAgICBdLAogICAgInRvdGFsIjogNDg2CiAgfSwKICAidmF0IjogewogICAgIm5hbWUiOiAi67aA6rCA6rCA7LmY7IS467KVIiwKICAgICJjaHVua3MiOiBbCiAgICAgICJ2YXQtMDEuanNvbiIsCiAgICAgICJ2YXQtMDIuanNvbiIsCiAgICAgICJ2YXQtMDMuanNvbiIsCiAgICAgICJ2YXQtMDQuanNvbiIsCiAgICAgICJ2YXQtMDUuanNvbiIsCiAgICAgICJ2YXQtMDYuanNvbiIsCiAgICAgICJ2YXQtMDcuanNvbiIKICAgIF0sCiAgICAidG90YWwiOiAzMDkKICB9LAogICJpbmNvbWUiOiB7CiAgICAibmFtZSI6ICLshozrk53shLjrspUiLAogICAgImNodW5rcyI6IFsKICAgICAgImluY29tZS0wMS5qc29uIiwKICAgICAgImluY29tZS0wMi5qc29uIiwKICAgICAgImluY29tZS0wMy5qc29uIiwKICAgICAgImluY29tZS0wNC5qc29uIiwKICAgICAgImluY29tZS0wNS5qc29uIiwKICAgICAgImluY29tZS0wNi5qc29uIiwKICAgICAgImluY29tZS0wNy5qc29uIiwKICAgICAgImluY29tZS0wOC5qc29uIgogICAgXSwKICAgICJ0b3RhbCI6IDM3OAogIH0sCiAgImJhc2ljIjogewogICAgIm5hbWUiOiAi7IS467KVIOq4sOuzuOuylSIsCiAgICAiY2h1bmtzIjogWwogICAgICAiYmFzaWMtMDEuanNvbiIsCiAgICAgICJiYXNpYy0wMi5qc29uIiwKICAgICAgImJhc2ljLTAzLmpzb24iLAogICAgICAiYmFzaWMtMDQuanNvbiIsCiAgICAgICJiYXNpYy0wNS5qc29uIiwKICAgICAgImJhc2ljLTA2Lmpzb24iLAogICAgICAiYmFzaWMtMDcuanNvbiIKICAgIF0sCiAgICAidG90YWwiOiAzMTUKICB9LAogICJwdWJmaW4iOiB7CiAgICAibmFtZSI6ICLsnqzsoJXtlZkiLAogICAgImNodW5rcyI6IFsKICAgICAgInB1YmZpbi0wMS5qc29uIiwKICAgICAgInB1YmZpbi0wMi5qc29uIiwKICAgICAgInB1YmZpbi0wMy5qc29uIiwKICAgICAgInB1YmZpbi0wNC5qc29uIiwKICAgICAgInB1YmZpbi0wNS5qc29uIiwKICAgICAgInB1YmZpbi0wNi5qc29uIiwKICAgICAgInB1YmZpbi0wNy5qc29uIiwKICAgICAgInB1YmZpbi0wOC5qc29uIiwKICAgICAgInB1YmZpbi0wOS5qc29uIiwKICAgICAgInB1YmZpbi0xMC5qc29uIiwKICAgICAgInB1YmZpbi0xMS5qc29uIiwKICAgICAgInB1YmZpbi0xMi5qc29uIiwKICAgICAgInB1YmZpbi0xMy5qc29uIiwKICAgICAgInB1YmZpbi0xNC5qc29uIiwKICAgICAgInB1YmZpbi0xNS5qc29uIgogICAgXSwKICAgICJ0b3RhbCI6IDcyNQogIH0sCiAgImNvbW1lcmNpYWwiOiB7CiAgICAibmFtZSI6ICLsg4HrspUiLAogICAgImNodW5rcyI6IFsKICAgICAgImNvbW1lcmNpYWwtMDEuanNvbiIsCiAgICAgICJjb21tZXJjaWFsLTAyLmpzb24iLAogICAgICAiY29tbWVyY2lhbC0wMy5qc29uIiwKICAgICAgImNvbW1lcmNpYWwtMDQuanNvbiIsCiAgICAgICJjb21tZXJjaWFsLTA1Lmpzb24iLAogICAgICAiY29tbWVyY2lhbC0wNi5qc29uIiwKICAgICAgImNvbW1lcmNpYWwtMDcuanNvbiIsCiAgICAgICJjb21tZXJjaWFsLTA4Lmpzb24iLAogICAgICAiY29tbWVyY2lhbC0wOS5qc29uIiwKICAgICAgImNvbW1lcmNpYWwtMTAuanNvbiIsCiAgICAgICJjb21tZXJjaWFsLTExLmpzb24iLAogICAgICAiY29tbWVyY2lhbC0xMi5qc29uIiwKICAgICAgImNvbW1lcmNpYWwtMTMuanNvbiIsCiAgICAgICJjb21tZXJjaWFsLTE0Lmpzb24iLAogICAgICAiY29tbWVyY2lhbC0xNS5qc29uIiwKICAgICAgImNvbW1lcmNpYWwtMTYuanNvbiIKICAgIF0sCiAgICAidG90YWwiOiA3ODEKICB9LAogICJmaW5hY2N0IjogewogICAgIm5hbWUiOiAi7J6s66y07ZqM6rOEIiwKICAgICJjaHVua3MiOiBbCiAgICAgICJmaW5hY2N0LTAxLmpzb24iLAogICAgICAiZmluYWNjdC0wMi5qc29uIiwKICAgICAgImZpbmFjY3QtMDMuanNvbiIsCiAgICAgICJmaW5hY2N0LTA0Lmpzb24iLAogICAgICAiZmluYWNjdC0wNS5qc29uIiwKICAgICAgImZpbmFjY3QtMDYuanNvbiIsCiAgICAgICJmaW5hY2N0LTA3Lmpzb24iLAogICAgICAiZmluYWNjdC0wOC5qc29uIiwKICAgICAgImZpbmFjY3QtMDkuanNvbiIsCiAgICAgICJmaW5hY2N0LTEwLmpzb24iLAogICAgICAiZmluYWNjdC0xMS5qc29uIiwKICAgICAgImZpbmFjY3QtMTIuanNvbiIsCiAgICAgICJmaW5hY2N0LTEzLmpzb24iLAogICAgICAiZmluYWNjdC0xNC5qc29uIiwKICAgICAgImZpbmFjY3QtMTUuanNvbiIsCiAgICAgICJmaW5hY2N0LTE2Lmpzb24iLAogICAgICAiZmluYWNjdC0xNy5qc29uIiwKICAgICAgImZpbmFjY3QtMTguanNvbiIsCiAgICAgICJmaW5hY2N0LTE5Lmpzb24iLAogICAgICAiZmluYWNjdC0yMC5qc29uIiwKICAgICAgImZpbmFjY3QtMjEuanNvbiIsCiAgICAgICJmaW5hY2N0LTIyLmpzb24iLAogICAgICAiZmluYWNjdC0yMy5qc29uIiwKICAgICAgImZpbmFjY3QtMjQuanNvbiIsCiAgICAgICJmaW5hY2N0LTI1Lmpzb24iLAogICAgICAiZmluYWNjdC0yNi5qc29uIgogICAgXSwKICAgICJ0b3RhbCI6IDEyOTkKICB9LAogICJjb3N0YWNjdCI6IHsKICAgICJuYW1lIjogIuybkOqwgOq0gOumrO2ajOqzhCIsCiAgICAiY2h1bmtzIjogWwogICAgICAiY29zdGFjY3QtMDEuanNvbiIsCiAgICAgICJjb3N0YWNjdC0wMi5qc29uIiwKICAgICAgImNvc3RhY2N0LTAzLmpzb24iLAogICAgICAiY29zdGFjY3QtMDQuanNvbiIsCiAgICAgICJjb3N0YWNjdC0wNS5qc29uIiwKICAgICAgImNvc3RhY2N0LTA2Lmpzb24iLAogICAgICAiY29zdGFjY3QtMDcuanNvbiIsCiAgICAgICJjb3N0YWNjdC0wOC5qc29uIiwKICAgICAgImNvc3RhY2N0LTA5Lmpzb24iCiAgICBdLAogICAgInRvdGFsIjogNDAxCiAgfQp9
+{
+ "basic": {
+  "name": "세법 기본법",
+  "chunks": [
+   "basic-01.json",
+   "basic-02.json",
+   "basic-03.json",
+   "basic-04.json",
+   "basic-05.json",
+   "basic-06.json",
+   "basic-07.json"
+  ],
+  "total": 318
+ },
+ "corp": {
+  "name": "법인세법",
+  "chunks": [
+   "corp-01.json",
+   "corp-02.json",
+   "corp-03.json",
+   "corp-04.json",
+   "corp-05.json",
+   "corp-06.json",
+   "corp-07.json",
+   "corp-08.json",
+   "corp-09.json",
+   "corp-10.json"
+  ],
+  "total": 488
+ },
+ "income": {
+  "name": "소득세법",
+  "chunks": [
+   "income-01.json",
+   "income-02.json",
+   "income-03.json",
+   "income-04.json",
+   "income-05.json",
+   "income-06.json",
+   "income-07.json",
+   "income-08.json"
+  ],
+  "total": 379
+ },
+ "vat": {
+  "name": "부가가치세법",
+  "chunks": [
+   "vat-01.json",
+   "vat-02.json",
+   "vat-03.json",
+   "vat-04.json",
+   "vat-05.json",
+   "vat-06.json",
+   "vat-07.json"
+  ],
+  "total": 315
+ },
+ "pubfin": {
+  "name": "재정학",
+  "chunks": [
+   "pubfin-01.json",
+   "pubfin-02.json",
+   "pubfin-03.json",
+   "pubfin-04.json",
+   "pubfin-05.json",
+   "pubfin-06.json",
+   "pubfin-07.json",
+   "pubfin-08.json",
+   "pubfin-09.json",
+   "pubfin-10.json",
+   "pubfin-11.json",
+   "pubfin-12.json",
+   "pubfin-13.json",
+   "pubfin-14.json"
+  ],
+  "total": 660
+ },
+ "commercial": {
+  "name": "상법",
+  "chunks": [
+   "commercial-01.json",
+   "commercial-02.json",
+   "commercial-03.json",
+   "commercial-04.json",
+   "commercial-05.json",
+   "commercial-06.json",
+   "commercial-07.json",
+   "commercial-08.json",
+   "commercial-09.json",
+   "commercial-10.json",
+   "commercial-11.json",
+   "commercial-12.json",
+   "commercial-13.json",
+   "commercial-14.json",
+   "commercial-15.json",
+   "commercial-16.json"
+  ],
+  "total": 774
+ },
+ "finacct": {
+  "name": "재무회계",
+  "chunks": [
+   "finacct-01.json",
+   "finacct-02.json",
+   "finacct-03.json",
+   "finacct-04.json",
+   "finacct-05.json",
+   "finacct-06.json",
+   "finacct-07.json",
+   "finacct-08.json",
+   "finacct-09.json",
+   "finacct-10.json",
+   "finacct-11.json",
+   "finacct-12.json",
+   "finacct-13.json",
+   "finacct-14.json",
+   "finacct-15.json",
+   "finacct-16.json",
+   "finacct-17.json",
+   "finacct-18.json",
+   "finacct-19.json",
+   "finacct-20.json",
+   "finacct-21.json",
+   "finacct-22.json",
+   "finacct-23.json",
+   "finacct-24.json",
+   "finacct-25.json",
+   "finacct-26.json",
+   "finacct-27.json"
+  ],
+  "total": 1303
+ },
+ "costacct": {
+  "name": "원가관리회계",
+  "chunks": [
+   "costacct-01.json",
+   "costacct-02.json",
+   "costacct-03.json",
+   "costacct-04.json",
+   "costacct-05.json",
+   "costacct-06.json",
+   "costacct-07.json",
+   "costacct-08.json",
+   "costacct-09.json"
+  ],
+  "total": 404
+ }
+}
