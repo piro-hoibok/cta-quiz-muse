@@ -9,8 +9,7 @@
    "basic-05.json",
    "basic-06.json",
    "basic-07.json"
-  ],
-  "total": 318
+  ]
  },
  "corp": {
   "name": "법인세법",
@@ -24,9 +23,9 @@
    "corp-07.json",
    "corp-08.json",
    "corp-09.json",
-   "corp-10.json"
-  ],
-  "total": 488
+   "corp-10.json",
+   "corp-11.json"
+  ]
  },
  "income": {
   "name": "소득세법",
@@ -39,8 +38,7 @@
    "income-06.json",
    "income-07.json",
    "income-08.json"
-  ],
-  "total": 379
+  ]
  },
  "vat": {
   "name": "부가가치세법",
@@ -52,8 +50,7 @@
    "vat-05.json",
    "vat-06.json",
    "vat-07.json"
-  ],
-  "total": 315
+  ]
  },
  "pubfin": {
   "name": "재정학",
@@ -72,8 +69,7 @@
    "pubfin-12.json",
    "pubfin-13.json",
    "pubfin-14.json"
-  ],
-  "total": 660
+  ]
  },
  "commercial": {
   "name": "상법",
@@ -94,8 +90,7 @@
    "commercial-14.json",
    "commercial-15.json",
    "commercial-16.json"
-  ],
-  "total": 774
+  ]
  },
  "finacct": {
   "name": "재무회계",
@@ -126,9 +121,10 @@
    "finacct-24.json",
    "finacct-25.json",
    "finacct-26.json",
-   "finacct-27.json"
-  ],
-  "total": 1303
+   "finacct-27.json",
+   "finacct-28.json",
+   "finacct-29.json"
+  ]
  },
  "costacct": {
   "name": "원가관리회계",
@@ -142,7 +138,6 @@
    "costacct-07.json",
    "costacct-08.json",
    "costacct-09.json"
-  ],
-  "total": 404
+  ]
  }
 }
